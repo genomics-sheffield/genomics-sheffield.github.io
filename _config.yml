@@ -1,0 +1,87 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data assets
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML assets,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Sheffield Genomics
+email: genomics-group@sheffield.ac.uk
+description: > # this means to ignore newlines until "baseurl:"
+  These pages describe the variety of omics sequencing technology available at The University of Sheffield, and how to get in touch with us.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://genomics.shef.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+# timezone for the build server, set to london to make event dates probably fine.
+timezone: Europe/London
+twitter_username: SheffBioinfCore
+github_username: sheffield-bioinformatics-core
+twitter:
+  username: SheffBioinfCore
+  card: summary
+logo: /assets/images/logo/UOSLogo_Primary_Violet_RGB.png
+
+future: true # required for collections with a date field, where future events are desired.
+collections:
+  events:
+    output: true
+  newsletters:
+    output: true
+  people:
+    output: true
+    permalink: /contact/:path/
+  projects:
+    output: true
+  project_descriptions:
+    output: true
+
+# Build settings
+markdown: kramdown
+#theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jemoji
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+strict_front_matter: true
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: "/blog/:slug/"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"
+  - scope:
+      path: ""
+      type: "newsletters"
+    values:
+      layout: "newsletter"
+
+# Configure Blog
+paginate: 10
+paginate_path: /blog/page:num/

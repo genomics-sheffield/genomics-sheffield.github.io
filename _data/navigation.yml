@@ -1,0 +1,29 @@
+- title: Services
+  subitems:
+    - title: Sequencing
+      url: /services/sequencing/
+    - title: Real-time PCR
+      url: /services/rtpcr/ 
+    - title: Single-Cell
+      url: /services/single-cell        
+    - title: Sample Preparation
+      url: /services/sample-prep
+    - title: Bioinformatics
+      url: /services/bioinformatics
+    - title: Sample QC
+      url: /services/sample-qc
+- title: "Resources"
+  subitems:
+    - title: Sample Storage
+      url: /resources/storage
+    - title: DNA Extraction
+      url: /resources/extraction
+
+- title: Contact
+  subitems:
+    - title: Contact us
+      url: /contact/
+    - title: Team
+      url: /team
+    - title: Alumni
+      url: /team/alumni
