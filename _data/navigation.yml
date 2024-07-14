@@ -2,14 +2,26 @@
   subitems:
     - title: Overview
       url: /intro
-- title: Services
+- title: Sequencing Services
   subitems:
-    - title: Sequencing
-      url: /services/sequencing/
+    - title: Overview
+      url: /services/sequencing
+    - title: Short-Read Sequencing
+      url: /services/sequencing/short_read
+    - title: Long-Read Sequencing
+      url: /services/sequencing/long_read
+- title: Single-cell and Spatial Technologies
+  subitems:
+    - title: Overview
+      url: /services/single-cell
+    - title: Single-Cell
+      url: /services/single-cell/10x
+    - title: Spatial
+      url: /services/spatial
+- title: Other Services
+  subitems:
     - title: Real-time PCR
       url: /services/rtpcr/ 
-    - title: Single-Cell
-      url: /services/single-cell
     - title: Nanostring
       url: /services/nanostring
     - title: Sample Preparation
