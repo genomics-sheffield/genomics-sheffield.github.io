@@ -1,3 +1,7 @@
+- title: Getting Started
+  subitems:
+    - title: Overview
+      url: /intro
 - title: Services
   subitems:
     - title: Sequencing
@@ -5,7 +9,9 @@
     - title: Real-time PCR
       url: /services/rtpcr/ 
     - title: Single-Cell
-      url: /services/single-cell        
+      url: /services/single-cell
+    - title: Nanostring
+      url: /services/nanostring
     - title: Sample Preparation
       url: /services/sample-prep
     - title: Bioinformatics
