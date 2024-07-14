@@ -26,8 +26,6 @@
       url: /services/nanostring
     - title: Sample Preparation
       url: /services/sample-prep
-    - title: Bioinformatics
-      url: /services/bioinformatics
     - title: Sample QC
       url: /services/sample-qc
 - title: "Resources"

@@ -10,7 +10,7 @@ role: Research & Development Fellow in Genomics
 summary: My research focuses on applying genomic techniques to answer questions in plant and soil biology, ecology, evolution, conservation and population genomics. I apply cutting-edge sequencing technologies and approaches to design experiments and analyse genomic data from a wide range of sample types and projects, including de novo genomics and transcriptomics, epigenetics, metabarcoding and working with environmental DNA.
 ---
 <p style="text-align:center;">
-  <img src="/assets/images/people/Mark.jpg" width="250">
+  <img src="/assets/images/people/Helen.jpg" width="250">
 </p>
 
 ## Career
