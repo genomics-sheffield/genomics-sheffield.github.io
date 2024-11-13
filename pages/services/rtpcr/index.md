@@ -6,6 +6,8 @@ type: text
 
 ---
 
+# Real-Time PCR
+
 Real-time PCR, also known as quantitative PCR (qPCR), is a widely used technique in molecular biology that allows for the detection and quantification of specific DNA or RNA targets. It's essentially a supercharged version of traditional PCR (polymerase chain reaction) 
 
 <div align="center">

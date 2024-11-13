@@ -5,6 +5,8 @@ slug: index
 type: text
 ---
 
+# Spatial Technologies
+
 <div class="table">
 <table>
 <tr>

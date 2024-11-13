@@ -5,6 +5,7 @@ slug: index
 type: text
 ---
 
+# Sample QC Services
 
 A range of services for the accurate quantitation and quality assessment of nucleic acids – an important precursor to downstream analyses such as real-time PCR or Sequencing 
 
