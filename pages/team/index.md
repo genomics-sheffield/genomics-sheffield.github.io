@@ -1,11 +1,11 @@
 ---
 title: Team
 permalink: /team/
-slug: team
+slug: index
 type: text
 ---
 
-Current members of the Sheffield Bioinformatics Core team, and associated staff and students are listed below. Click on a team member's name to get a full biography.
+Current members of the Genomics team, and associated staff and students are listed below. Click on a team member's name to get a full biography.
 
 Previous members of the team can be found on our [Alumni](/team/alumni) page.
 

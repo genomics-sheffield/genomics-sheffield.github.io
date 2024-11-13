@@ -20,10 +20,12 @@
       url: /services/spatial
 - title: Other Services
   subitems:
-    - title: Real-time PCR
-      url: /services/rtpcr/ 
+    - title: Bioinformatics
+      url: /services/bioinformatics
     - title: Nanostring
       url: /services/nanostring
+    - title: Real-time PCR
+      url: /services/rtpcr/ 
     - title: Sample Preparation
       url: /services/sample-prep
     - title: Sample QC
