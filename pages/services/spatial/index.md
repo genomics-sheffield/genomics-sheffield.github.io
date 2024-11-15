@@ -44,7 +44,7 @@ The following 10X technologies are available to researchers at The University of
   </ul>
   </li>
 </td>
-<td>10X Xenium Analyser
+<td>10X Xenium Analyser - <b>Available via the School of Clinical Dentistry</b>
 <li>Imaging-based</li>
 <li><b>Focus: </b>Targeted, high-resolution analysis of specific genes</li>
 <li><b>Data capture:</b> Pre-defined set of genes</li>
