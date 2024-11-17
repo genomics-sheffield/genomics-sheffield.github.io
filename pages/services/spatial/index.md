@@ -14,7 +14,7 @@ type: text
 </table>
 </div>
 
-The following 10X technologies are available to researchers at The University of Sheffield.
+The following spatial technologies are available to researchers at The University of Sheffield. [Talk to us](/contact) and we will advise on which will best suit your experiment.
 
 <div class="table">
 <table>
