@@ -2,7 +2,7 @@
   subitems:
     - title: Overview
       url: /intro
-- title: Sequencing Services
+- title: Sequencing
   subitems:
     - title: Overview
       url: /services/sequencing
@@ -10,7 +10,7 @@
       url: /services/sequencing/short_read
     - title: Long-Read Sequencing
       url: /services/sequencing/long_read
-- title: Single-cell and Spatial Technologies
+- title: Single-cell and Spatial
   subitems:
     - title: Overview
       url: /services/single-cell
@@ -18,7 +18,7 @@
       url: /services/single-cell/10x
     - title: Spatial
       url: /services/spatial
-- title: Other Services
+- title: Other
   subitems:
     - title: Bioinformatics
       url: /services/bioinformatics

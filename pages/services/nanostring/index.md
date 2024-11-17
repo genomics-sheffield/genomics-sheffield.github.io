@@ -6,8 +6,6 @@ type: text
 
 ---
 
-## Nanostring
-
 <img src="/assets/images/machines/NANOSTRING_1.jpg" width="450" height="450">
 
 The nanoString nCounter® SPRINT profiler integrates sample preparation and analysis into a single instrument, allowing the analysis of up to 800 RNA targets simultaneously using single-tube multiplexing. It can detect both RNA and DNA from a variety of sample types, including tissue (either fresh, frozen or FFPE preserved). The nanoString nCounter technology additionally benefits from low input requirements (50-150 ng RNA and 5-300 ng DNA) without the need for reverse transcription or amplification. 
