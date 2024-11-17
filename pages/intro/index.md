@@ -7,6 +7,10 @@ type: text
 
 Welcome to the Genomics Facility at the University of Sheffield!  We are a state-of-the-art core facility dedicated to empowering researchers with cutting-edge tools and expertise in genomics. Whether you're delving into the mysteries of gene expression, navigating the complexities of whole genomes, or exploring the exciting world of single-cell analysis, our facility provides the resources and support to propel your research forward.
 
+<br>
+
+The equipment to perform sequencing and other experiments is spread across the University of Sheffield campus. However, by providing these web pages we intend to give you access to the information you need to plan your experiments. Please <a href="/contact">contact</a> our centralised team and we will discuss the optimal solution to fulfilling your experimental goals.
+
 ## Testimonials
 
 > “A one-stop shop for all your molecular needs! The genomics facility is extremely well equipped and the in-house team has a wealth of experience meaning they can offer expert advice on all aspects from experimental design to bioinformatic analysis. The facility is an integral part of my research, and has helped me get the most out of our budget and data.” 
@@ -33,8 +37,8 @@ The University of Sheffield has other facilities for high-throughput biology tha
 <td><a href="https://www.sheffield.ac.uk/mass-spectrometry/biomics/metabolomics"><img src="https://www.sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2020-01/Metabolomics_DSC9369_0.jpg" width="350" height="350"/></a></td>
 </tr>
 <tr>
-<td><b>Proteomics - Protein identification/quanitification</b></td>
-<td><b>Metabolomics - Metabolite identification/quantification</b></td>
+<td><b>Proteomics</b> - Protein identification/quantification</td>
+<td><b>Metabolomics</b> - Metabolite identification/quantification</td>
 </tr>
 <tr>
 <td><a href="https://www.sheffield.ac.uk/smph/facilities/flow-cytometry"><img src="https://cdn.sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2023-05/Aurora.png.jpg" width="350" height="350"/></a></td>
