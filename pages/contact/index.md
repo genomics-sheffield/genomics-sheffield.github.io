@@ -6,7 +6,9 @@ type: text
 
 The Sheffield Genomics Portal is comprised of members of the Genomics and Bioinformatics facilities from across the University campus.
 
-Regardless of which faculty you belong to, please contact us at <a href="mailto:genomics-group@sheffield.ac.uk">genomics-group@sheffield.ac.uk</a> and we will direct your query to the most appropriate person
+Regardless of which faculty you belong to, please contact us at <a href="mailto:genomics-group@sheffield.ac.uk">genomics-group@sheffield.ac.uk</a> and we will direct your query to the most appropriate person.
+
+Please note that we are not connected to the Sheffield Diagnostic Genetics Service - they can be contacted here<a href="https://www.sheffieldchildrens.nhs.uk/sdgs/">SDGS
 
 Should you wish you can also see individual teams' pages at the below links
 
